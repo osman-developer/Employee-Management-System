@@ -1,0 +1,14 @@
+D:\Programming\Employee system\webAPI\BLC\bin\Debug\netcoreapp3.1\BLC.deps.json
+D:\Programming\Employee system\webAPI\BLC\bin\Debug\netcoreapp3.1\BLC.dll
+D:\Programming\Employee system\webAPI\BLC\bin\Debug\netcoreapp3.1\BLC.pdb
+D:\Programming\Employee system\webAPI\BLC\obj\Debug\netcoreapp3.1\BLC.csprojAssemblyReference.cache
+D:\Programming\Employee system\webAPI\BLC\obj\Debug\netcoreapp3.1\BLC.csproj.CoreCompileInputs.cache
+D:\Programming\Employee system\webAPI\BLC\obj\Debug\netcoreapp3.1\BLC.AssemblyInfoInputs.cache
+D:\Programming\Employee system\webAPI\BLC\obj\Debug\netcoreapp3.1\BLC.AssemblyInfo.cs
+D:\Programming\Employee system\webAPI\BLC\obj\Debug\netcoreapp3.1\BLC.dll
+D:\Programming\Employee system\webAPI\BLC\obj\Debug\netcoreapp3.1\BLC.pdb
+D:\Programming\Employee system\webAPI\BLC\bin\Debug\netcoreapp3.1\DALC.dll
+D:\Programming\Employee system\webAPI\BLC\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Programming\Employee system\webAPI\BLC\bin\Debug\netcoreapp3.1\DALC.pdb
+D:\Programming\Employee system\webAPI\BLC\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Programming\Employee system\webAPI\BLC\obj\Debug\netcoreapp3.1\BLC.csproj.CopyComplete

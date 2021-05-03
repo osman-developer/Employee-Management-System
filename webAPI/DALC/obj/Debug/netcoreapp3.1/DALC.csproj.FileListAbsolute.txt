@@ -1,0 +1,12 @@
+D:\Programming\Employee system\webAPI\DALC\bin\Debug\netcoreapp3.1\DALC.deps.json
+D:\Programming\Employee system\webAPI\DALC\bin\Debug\netcoreapp3.1\DALC.dll
+D:\Programming\Employee system\webAPI\DALC\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Programming\Employee system\webAPI\DALC\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Programming\Employee system\webAPI\DALC\obj\Debug\netcoreapp3.1\DALC.AssemblyInfoInputs.cache
+D:\Programming\Employee system\webAPI\DALC\obj\Debug\netcoreapp3.1\DALC.AssemblyInfo.cs
+D:\Programming\Employee system\webAPI\DALC\obj\Debug\netcoreapp3.1\DALC.csproj.CopyComplete
+D:\Programming\Employee system\webAPI\DALC\bin\Debug\netcoreapp3.1\DALC.pdb
+D:\Programming\Employee system\webAPI\DALC\obj\Debug\netcoreapp3.1\DALC.csprojAssemblyReference.cache
+D:\Programming\Employee system\webAPI\DALC\obj\Debug\netcoreapp3.1\DALC.csproj.CoreCompileInputs.cache
+D:\Programming\Employee system\webAPI\DALC\obj\Debug\netcoreapp3.1\DALC.dll
+D:\Programming\Employee system\webAPI\DALC\obj\Debug\netcoreapp3.1\DALC.pdb
