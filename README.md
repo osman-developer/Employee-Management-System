@@ -6,3 +6,4 @@ The webAPI is also dummy its role is just to take the filtered data from the BLC
 For the interface, I used angular11, I used bootstrap to make it responsive. Now make sure you have NodeJs installed on your machine And after that install the Angular CLI. 
 When you have them ready, just navigate to the folder of the angular app using the CLI and run this command " npm install ", a " Node_Modules " folder will be created having all the modules needed to run the app. 
 After that run the asp.Net core web api app and then run the angular app by typing " ng serve -o ". 
+feel free to message me for questions.
